@@ -1,0 +1,76 @@
+* {
+	padding: 0;
+	box-sizing: border-box;
+	margin: 0!!important;
+}
+
+#landing {
+	background-image: url("https://hips.hearstapps.com/hmg-prod/images/champagne-beach-espiritu-santo-island-vanuatu-royalty-free-image-1655672510.jpg?crop=1.00xw:0.755xh;0,0.173xh&resize=1200:*");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-bottom: 2px solid black;
+}
+
+body {
+	font-family: 'Roboto Slab', serif;
+}
+
+.navbar {
+	position: fixed;
+	top: 0;
+	z-index: 1;
+	width: 100%;
+}
+
+.navbar-brand {
+	font-size: 1.5rem;
+	margin-left: 30px;
+}
+
+ul > li > a {
+	color: black!important;
+	font-size: 1rem;
+	margin-left: 60px;
+	margin-left: 50px;
+}
+
+.name {
+	margin-top: 15%;
+
+}
+
+.names {
+	font-size: 4rem;
+	text-shadow: 5px 1px 0px rgba(52,44,44,0.74);
+
+}
+
+.namej {
+	float: right;
+}
+
+
+.image {
+	max-height: 70vh;
+	margin-top: -20vh;
+	margin-bottom: -15vh;
+}
+
+#personal-photo {
+	padding-top: 30vh;
+}
+
+
+.about-header, .about-text {
+	font-family: 'Catamaran', sans-serif !important;
+}
+
+.about-header {
+	font-size: 3rem;
+}
+
+.about-text {
+	font-size: 22px;
+}
+
